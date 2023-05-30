@@ -1,2 +1,14 @@
-# Online-Shopper-Intentions
-Based on the data we have, we will predict whether a person will buy the car insurance or not.
+Key Machine Learning Steps learnt:
+
+1.Data exploration
+
+2. Data preprocessing
+
+3.Model
+implementation
+
+4.Performance
+evaluation
+
+5.Result analysis
+and discussion
